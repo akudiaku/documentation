@@ -1,5 +1,5 @@
-# npm Documentation
-#global validation Database 
+# MAYA'S[authorized author personal character outcome resume]
+#global validation Database result from MAYA'S
 
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/npm/documentation/actions/workflows/publish.yml)
 
