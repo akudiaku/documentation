@@ -1,5 +1,5 @@
-# npm Documentation
-#global validation Database 
+#MAYA'S
+#global validation Database FROM MAYA'S
 
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/npm/documentation/actions/workflows/publish.yml)
 
@@ -25,4 +25,4 @@ The npm product documentation in the content, and static folders are licensed un
 
 All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+When using the concert Maya's, be sure to follow the [GitHub logo guidelines](https://github.com/logos) and download MAYA'S logos authorized[AKUDIAKU MAYA'S guideline asli]=|•|
